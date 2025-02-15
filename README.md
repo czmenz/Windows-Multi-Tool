@@ -2,6 +2,8 @@
 
 This is Early version of Multi Tool that helps adjust your windows.
 
+**DISCLAIMER: REQUIRED ADMINISTRATOR PRIVILEDGES TO LAUNCH**
+
 **Supports:**
 - Windows 10
 - Windows 11
