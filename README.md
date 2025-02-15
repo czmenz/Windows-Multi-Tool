@@ -17,5 +17,10 @@ What can it do?
 - Install all VCRedist. Manually or Automatically all of them
 - Native way to download ISO's of the most popular operating systems like Windows, Linux and Mac Os
 
+**What i am working on**
+- Executable launcher
+- Better look
+
+
 
 ![{Multi Tool Main Menu}](https://github.com/user-attachments/assets/68e31753-c3b8-4e7f-8787-4bca6fa06272)
