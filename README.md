@@ -6,7 +6,13 @@ This is Early version of Multi Tool that helps adjust your windows.
 - Windows 10
 - Windows 11
 
-What can it do?
+
+**What i am working on**
+- Executable launcher
+- Better look
+
+
+**What can it do?**
 
 - Windows and Office Activating tool
 - Windows Utilities that can change windows in deeper way and also install applications.
@@ -16,10 +22,6 @@ What can it do?
 - Auto Update all applications that are out of date
 - Install all VCRedist. Manually or Automatically all of them
 - Native way to download ISO's of the most popular operating systems like Windows, Linux and Mac Os
-
-**What i am working on**
-- Executable launcher
-- Better look
 
 
 
