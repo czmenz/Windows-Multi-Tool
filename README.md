@@ -26,3 +26,5 @@ This is Early version of Multi Tool that helps adjust your windows.
 
 
 ![{Multi Tool Main Menu}](https://github.com/user-attachments/assets/68e31753-c3b8-4e7f-8787-4bca6fa06272)
+
+This program will go open source. Please do not resell it or anything else. Thanks Czmenz
