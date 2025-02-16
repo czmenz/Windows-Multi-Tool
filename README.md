@@ -17,7 +17,6 @@ This is Early version of Multi Tool that helps adjust your windows.
 
 - Windows and Office Activating tool
 - Windows Utilities that can change windows in deeper way and also install applications.
-- Support for uninstalling Microsoft Edge and Reinstalling Microsoft Store
 - Simple Net Booster that boosts net by little
 - Clear Temp and Prefetch to make your Computer load faster
 - Auto Update all applications that are out of date
