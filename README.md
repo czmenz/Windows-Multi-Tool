@@ -11,7 +11,6 @@ This is Early version of Multi Tool that helps adjust your windows.
 
 **What i am working on**
 - Executable launcher
-- Better look
 
 
 **What can it do?**
