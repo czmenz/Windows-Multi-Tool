@@ -1,8 +1,12 @@
 # Windows-Multi-Tool
 
-This is Early version of Multi Tool that helps adjust your windows.
+**NEW EXE LAUNCHER HAS BEEN LAUNCHED. ( ITS FALSE POSSITIVE )**
 
-**DISCLAIMER: REQUIRED ADMINISTRATOR PRIVILEDGES TO LAUNCH**
+![image](https://github.com/user-attachments/assets/d3d88f5d-f395-453f-a931-fb279a02272e)
+**SHA256:** 9df9a05557ee0ce442b23da00195e740fc97c1a2bd5696ae6fb8d0994e489009
+https://www.virustotal.com/gui/file/9df9a05557ee0ce442b23da00195e740fc97c1a2bd5696ae6fb8d0994e489009/detection
+
+If its not launching please check if the name is: Multi-Tool.exe (It doesnt work with spaces)
 
 **Supported Operating Systems:**
 - Windows 11 ✅
@@ -11,10 +15,8 @@ This is Early version of Multi Tool that helps adjust your windows.
 - Windows 7 ❌
 - Windows XP ❌
 
-
-**What i am working on**
-- Executable launcher
-
+*What i am working on:**
+- A new design for the whole script.
 
 **What can it do?**
 
@@ -29,6 +31,4 @@ This is Early version of Multi Tool that helps adjust your windows.
 - Added Clean RAM Cache
 - Added Computer boost script (Not Tested)
 
-![{Multi Tool Main Menu}](https://github.com/user-attachments/assets/ab7ffa28-4cea-40e2-bda5-b5c5c7976dd9)
-
-This program will go open source. Please do not resell it or anything else. Thanks Czmenz
+![{Multi Tool Main Menu}](https://github.com/user-attachments/assets/82148dbc-59be-4920-9460-45fdcf81e75b)
