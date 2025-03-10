@@ -15,7 +15,7 @@ If its not launching please check if the name is: Multi-Tool.exe (It doesnt work
 - Windows 7 ❌
 - Windows XP ❌
 
-*What i am working on:**
+**What i am working on:**
 - A new design for the whole script.
 
 **What can it do?**
