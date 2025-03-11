@@ -2,6 +2,9 @@
 
 **NEW EXE LAUNCHER HAS BEEN LAUNCHED. ( ITS FALSE POSSITIVE )**
 
+*IF ANYONE KNOWS HOW TO MAKE THIS FILE LOOK LEGIT*
+*hit me up on discord: czmenz. Because its not a virus*
+
 ![image](https://github.com/user-attachments/assets/d3d88f5d-f395-453f-a931-fb279a02272e)
 **SHA256:** 9df9a05557ee0ce442b23da00195e740fc97c1a2bd5696ae6fb8d0994e489009
 https://www.virustotal.com/gui/file/9df9a05557ee0ce442b23da00195e740fc97c1a2bd5696ae6fb8d0994e489009/detection
