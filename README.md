@@ -2,7 +2,7 @@
 
 **NEW EXE LAUNCHER HAS BEEN LAUNCHED. ( ITS FALSE POSSITIVE )**
 
-*IF ANYONE KNOWS HOW TO MAKE THIS FILE LOOK LEGIT*
+*IF ANYONE KNOWS HOW TO MAKE EXE FILES IN PYTHON/C++ OR ANY OTHER LANGUAGE AND IT WONT LOOK LIKE VIRUS*
 *hit me up on discord: czmenz. Because its not a virus*
 
 ![image](https://github.com/user-attachments/assets/d3d88f5d-f395-453f-a931-fb279a02272e)
