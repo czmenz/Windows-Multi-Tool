@@ -32,6 +32,5 @@ If its not launching please check if the name is: Multi-Tool.exe (It doesnt work
 - Native way to download ISO's of the most popular operating systems like Windows, Linux and Mac Os
 - Deep Cleanup system for cleaning up non required "trash" and bloatware from your PC
 - Added Clean RAM Cache
-- Added Computer boost script (Not Tested)
 
-![{Multi Tool Main Menu}](https://github.com/user-attachments/assets/82148dbc-59be-4920-9460-45fdcf81e75b)
+![2.2.7](https://github.com/user-attachments/assets/01c32336-466a-425d-a71b-b95592b1dfd4)
