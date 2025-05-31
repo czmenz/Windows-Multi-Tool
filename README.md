@@ -1,15 +1,10 @@
 # Windows-Multi-Tool
 
-**NEW EXE LAUNCHER HAS BEEN LAUNCHED. ( ITS FALSE POSSITIVE )**
+## https://multi-tool.me/
 
-*IF ANYONE KNOWS HOW TO MAKE EXE FILES IN PYTHON/C++ OR ANY OTHER LANGUAGE AND IT WONT LOOK LIKE VIRUS*
-*hit me up on discord: czmenz. Because its not a virus*
+**NEW UPDATE 3.00**
 
-![image](https://github.com/user-attachments/assets/d3d88f5d-f395-453f-a931-fb279a02272e)
-**SHA256:** 9df9a05557ee0ce442b23da00195e740fc97c1a2bd5696ae6fb8d0994e489009
-https://www.virustotal.com/gui/file/9df9a05557ee0ce442b23da00195e740fc97c1a2bd5696ae6fb8d0994e489009/detection
-
-If its not launching please check if the name is: Multi-Tool.exe (It doesnt work with spaces)
+The Windows Multi Tool (WMT) is a utility created in C++. That allows users to customize Windows, install applications, update them. It can also download any Windows Instalation without needing to search for each of them. Its created in console interface with futuristic design. It gets updates and hotfixes regularly.
 
 **Supported Operating Systems:**
 - Windows 11 ✅
@@ -18,19 +13,22 @@ If its not launching please check if the name is: Multi-Tool.exe (It doesnt work
 - Windows 7 ❌
 - Windows XP ❌
 
-**What i am working on:**
-- A new design for the whole script.
-
 **What can it do?**
 
-- Windows and Office Activating tool
-- Windows Utilities that can change windows in deeper way and also install applications.
-- Simple Net Booster that boosts net by little
-- Clear Temp and Prefetch to make your Computer load faster
-- Auto Update all applications that are out of date
-- Install all VCRedist. Manually or Automatically all of them
-- Native way to download ISO's of the most popular operating systems like Windows, Linux and Mac Os
-- Deep Cleanup system for cleaning up non required "trash" and bloatware from your PC
-- Added Clean RAM Cache
+- Activate any version of Windows with a simple click.
+- Change your current Windows edition (e.g., Home to Pro).
+- Activate Microsoft Office suites quickly and easily.
+- Get detailed info about your PC hardware, OS, and drivers.
+- Improve performance with advanced optimization techniques.
+- Download Windows, Linux, or macOS ISOs directly from trusted sources.
+- Scan and auto-update outdated applications in your system.
+- Install all Visual C++ Redistributables manually or automatically.
+- One-click install of the required .NET Framework versions.
+- Download and install the latest Java Runtime Environment.
+- Clean up temporary files and prefetch data to speed up your system.
+- Free up memory by clearing RAM cache.
+- Send custom messages and notifications through Discord webhooks.
+- Idle your Steam games to earn trading cards automatically.
+- Split or merge large files for easier handling or transfer.
+- Generate fake license keys for testing your applications.
 
-![2.2.7](https://github.com/user-attachments/assets/01c32336-466a-425d-a71b-b95592b1dfd4)
