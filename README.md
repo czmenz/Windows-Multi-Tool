@@ -2,9 +2,25 @@
 
 ## https://multi-tool.me/
 
-**NEW UPDATE 3.00**
 
 The Windows Multi Tool (WMT) is a utility created in C++. That allows users to customize Windows, install applications, update them. It can also download any Windows Instalation without needing to search for each of them. Its created in console interface with futuristic design. It gets updates and hotfixes regularly.
+
+
+**You can open it using powershell. Here are a few ways to do it:**
+
+**1. Start menu Method:**
+- Right-click on the start menu.
+- Choose "Windows PowerShell (Admin)" (for Windows 10) or "Terminal (Admin)" (for Windows 11).
+
+**2. Search and Launch Method:**
+- Press the Windows key.
+- Type "PowerShell" or "Terminal" (for Windows 11).
+- Press Ctrl + Shift + Enter or Right-click and choose "Run as administrator" to launch it with administrator privileges.
+
+
+> [!NOTE]
+> Launch Command: irm "https://multi-tool.me/wmt" | iex
+
 
 **Supported Operating Systems:**
 - Windows 11 ✅
